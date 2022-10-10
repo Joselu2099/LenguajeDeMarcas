@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jugadoresFutbol>
+    <jugador nombre="Lo Celso">
+        <caracteristicas tiro="6" pase="2" regate="9"></caracteristicas>
+        <rendimiento>
+            <temporada id="2022">
+                <jornada id="1" minutosJugador="0" goles="0" convocado="false"/>
+                <jornada id="2" minutosJugador="87" goles="2" convocado="true"/>
+                <jornada id="3" minutosJugador="94" goles="1" convocado="true"/>
+            </temporada>
+        </rendimiento>
+    </jugador>
+    <jugador nombre="Haaland">
+        <caracteristicas tiro="10" pase="4" regate="4"></caracteristicas>
+        <rendimiento>
+            <temporada id="2022">
+                <jornada id="1" minutosJugador="82" goles="1" convocado="true"/>
+                <jornada id="2" minutosJugador="87" goles="3" convocado="true"/>
+                <jornada id="3" minutosJugador="94" goles="2" convocado="true"/>
+            </temporada>    
+        </rendimiento>
+    </jugador>
+    <jugador nombre="Vinicius Jr.">
+        <caracteristicas tiro="7" pase="7" regate="9"></caracteristicas>
+        <rendimiento>
+            <temporada id="2022">
+                <jornada id="1" minutosJugador="90" goles="1" convocado="true"/>
+                <jornada id="2" minutosJugador="94" goles="0" convocado="true"/>
+                <jornada id="3" minutosJugador="91" goles="2" convocado="true"/>
+            </temporada>    
+        </rendimiento>
+    </jugador>
+</jugadoresFutbol>
