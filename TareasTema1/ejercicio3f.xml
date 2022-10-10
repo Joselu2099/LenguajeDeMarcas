@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Etiqueta bicicleta mal elaborada
+    En patinete el atributo no puede tener el nombre con espacios. La etiqueta esta mal cerrada tambien.
+-->
+<mediosDeTransporte>
+    <bicicleta velocidad="100km/h" />
+    <patinete velocidadMaxima="50 km/h" />
+</mediosDeTransporte>

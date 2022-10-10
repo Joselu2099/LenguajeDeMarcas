@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Documento XML con errores de sintaxis. -->
+
+<vehiculos>
+    <terrestres>
+        <vehiculo>bicicleta</vehiculo>
+        <vehiculo>coche</vehiculo>
+        <vehiculo>tractor</vehiculo>
+    </terrestres>
+    <acuaticos>
+        <vehiculo>canoa</vehiculo>
+    </acuaticos>
+    <aereos>
+        <vehiculo>avioneta</vehiculo>
+        <vehiculo>helicóptero</vehiculo>
+    </aereos>
+</vehiculos>
+
+<!-- 
+    La etiqueta XML debe ir en la linea 1
+    Etiqueta de comentarios mal cerrada.
+    Etiqueta de xml inicial mal escrita
+        No esta bien cerrada
+        El nombre del atributo no puede tener tildes
+        atributo encoding mal escrito
+    Falta una etiqueta raiz <vehiculos></vehiculos>
+    Etiquetas <terrestres> <acuaticos> y <aereos> sin cerrar
+    Etiquetas vehiculos mal cerradas
+-->

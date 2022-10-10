@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+    Primera etiqueta de deportista mal cerrada
+    Sintaxis en la etiqueta deporte incorrecta, 
+    o se pone el tipo de deporte como atributo o como contenido.
+    Sea como sea esta mal sintacticamente en el ejercicio.
+-->
+<deportistas>
+    <deportista>
+        <nombre>Jesse Owens</nombre>
+        <deporte>Atletismo</deporte>
+    </deportista>
+    <deportista>
+        <nombre>Mark Spitz</nombre>
+        <deporte>Natación</deporte>
+    </deportista>
+</deportistas>

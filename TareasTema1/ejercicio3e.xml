@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    No puede haber 2 atributos con el mismo nombre.
+    El valor del atributo debe estar entre comillas.
+-->
+<programas>
+    <programa nombre="Firefox" licencia="MPL" />
+    <programa nombre="LibreOffice" licencia="LGPL" />
+    <programa nombre="Inkscape" licencia="GPL" />
+</programas>

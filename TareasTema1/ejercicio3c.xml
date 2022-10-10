@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Sintaxis incorrecta en etiqueta titulo.
+    Etiqueta http mal elaborada
+-->
+<texto>
+    <titulo>XML explicado a los niños</titulo>
+    <párrafo>El <abreviatura>XML</abreviatura>define cómo crear lenguajes de marcas.</párrafo>
+    <párrafo>Las marcas se añaden a un documento de texto para añadir información.</párrafo>
+    <url href="http://>www.example.org"/>
+</texto>

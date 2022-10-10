@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Etiqueta raiz incorrecta, el nombre de la etiqueta no puede tener espacios
+    Pais autocontenido, es incorrecto, debe ser nombre
+    Sintaxis incorrecta en etiqueta capital incorrecta. Los atributos deben estar en la etiqueta de apertura
+-->
+<geografiaMundial>
+    <pais>
+        <nombre>España</nombre>
+        <continente>Europa</continente>
+        <capital nombre="Madrid"></capital>
+    </pais>
+</geografiaMundial>
