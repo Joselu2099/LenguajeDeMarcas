@@ -1,0 +1,45 @@
+fechas {
+    display: table;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: "Times New Roman", Times, serif;
+    border-spacing: 0px;
+}
+  
+  h1{
+    display: table-caption;
+    border: 1px solid;
+    font-size: 250%;
+    color: cornflowerblue;
+    text-align: center;
+    background-color: azure;
+  }
+
+  header {
+    display: table-row;
+    font-size: 150%;
+    border: 1px solid;
+    color: rgb(42, 92, 184);
+    background-color: rgb(186, 237, 237);
+  }
+
+  fecha {
+    display: table-row;
+    border: 1px solid;
+  }
+  
+  dia, mes {
+    display: table-cell;
+    border: 1px solid;
+    padding: 5px;
+  }
+
+  dia{
+    color:brown;
+    font-size:38px
+  }
+
+  mes{
+    color:magenta;
+    font-size:30px
+  }
