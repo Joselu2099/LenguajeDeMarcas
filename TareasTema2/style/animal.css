@@ -1,0 +1,23 @@
+.tituloPagina{
+    width: 400px !important;
+}
+
+.animal-container{
+    display: flex;
+    flex-direction: column;
+}
+
+h4{
+    margin-left: 10px;
+}
+
+.img-animal{
+    margin: 10px;
+}
+
+.text-animal{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
