@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ligafutbol SYSTEM "ejercicio5_3.dtd">
+<ligafutbol>
+    <partido>
+        <local nombre="Cartagena" goles='4'></local>
+        <visitante nombre="Murcia" goles='2'></visitante>
+    </partido>
+</ligafutbol>

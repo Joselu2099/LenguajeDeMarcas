@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ligafutbol SYSTEM "ejercicio5_2.dtd">
+<ligafutbol>
+    <partido>
+        <local goles='3'>Boca Juniors</local>
+        <visitante goles='3'>San Lorenzo de Almagro</visitante>
+    </partido>
+</ligafutbol>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE aeropuerto SYSTEM "ejercicio6.dtd">
+<aeropuerto>
+    <nombre>Alicante</nombre>
+    <vuelos>
+        <vuelo codigo="CP9" estado="estrellado">
+            <origen>España</origen>
+            <destino>Argentina</destino>
+            <horasalida>11:00</horasalida>
+            <horallegada>23:30</horallegada>       
+        </vuelo>
+        <vuelo codigo="CP0" estado="embarque">
+            <origen>Madrid</origen>
+            <destino>Barcelona</destino>
+            <horasalida>13:00</horasalida>
+            <horallegada>14:30</horallegada>
+            <diario></diario>      
+        </vuelo>
+    </vuelos>
+</aeropuerto>

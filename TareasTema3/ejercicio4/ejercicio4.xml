@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE operaciones SYSTEM "ejercicio4.dtd">
+<operaciones>
+    <operacion>
+        <compra>
+            <tituloscomprados>  
+                <titulo>Muñeca</titulo>
+                <proveedor>Daniel Lopez</proveedor>
+                <fecha>
+                    <dia>1</dia>
+                    <mes>12</mes>
+                    <año>2022</año>
+                </fecha>
+            </tituloscomprados>
+        </compra>
+        <venta>
+            <titulosvendidos>
+                <titulo>Mascarillas</titulo>
+                <cantidad>200</cantidad>
+                <entregado>si</entregado>
+                <importe moneda="$">100</importe>
+            </titulosvendidos>
+        </venta>
+    </operacion>
+    <operacion>
+        <compra>
+            <tituloscomprados>
+            <titulo>Balón</titulo>
+            <proveedor>Antonio Pacheco</proveedor>
+            <fecha>
+                <dia>5</dia>
+                <mes>12</mes>
+                <año>2022</año>
+            </fecha>
+            </tituloscomprados>
+        </compra>
+    </operacion>
+</operaciones>

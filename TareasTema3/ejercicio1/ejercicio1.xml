@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE catalogo SYSTEM "ejercicio1.dtd">
+<catalogo>
+    <producto>
+        <nombre>Caja con autocierre</nombre>
+        <descripcion>Caja de seguridad...</descripcion>
+        <origen>Angola</origen>
+    </producto>
+    <producto codigo="jjjjj">
+        <nombre>Caja llaves</nombre>
+        <pais>Francia</pais>
+    </producto>
+</catalogo>

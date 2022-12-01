@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ligafutbol SYSTEM "ejercicio5_1.dtd">
+<ligafutbol>
+    <partido>
+        <local>Bayer Munich</local>
+        <visitante>Inter de Milano</visitante>
+        <goleslocal>0</goleslocal>
+        <golesvisitante>1</golesvisitante>
+    </partido>
+</ligafutbol>
